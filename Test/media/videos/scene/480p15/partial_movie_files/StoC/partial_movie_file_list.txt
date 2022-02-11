@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/garfield/Projects/manim/Test/media/videos/scene/480p15/partial_movie_files/StoC/3163782288_1491962050_3724791137.mp4'
+file 'file:/home/garfield/Projects/manim/Test/media/videos/scene/480p15/partial_movie_files/StoC/1495979052_800479125_2252969924.mp4'
+file 'file:/home/garfield/Projects/manim/Test/media/videos/scene/480p15/partial_movie_files/StoC/1495979052_2930540585_2208899062.mp4'
+file 'file:/home/garfield/Projects/manim/Test/media/videos/scene/480p15/partial_movie_files/StoC/1495979052_2811348104_2208899062.mp4'
+file 'file:/home/garfield/Projects/manim/Test/media/videos/scene/480p15/partial_movie_files/StoC/1495979052_2735825695_128179283.mp4'
